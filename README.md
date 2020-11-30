@@ -1,5 +1,4 @@
-# hello-world
-Repository for hello world
+# CU CPSC 3720 Payment API & Doc
+Repository for Payment API & Doc
 
-My name is Ethan Knight, I am a computer information systems major at clemson university.
-This is being made as an assignment.
+Included within is an API for Purchasing an Item and Adding/Deleting a Payment Method for a e-commerce site called CUSports.com
